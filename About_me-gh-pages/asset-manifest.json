@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/About_me/static/css/main.91cf362d.css",
+    "main.js": "/About_me/static/js/main.8c91f877.js",
+    "static/media/Profile Picture Julio Morales.jpg": "/About_me/static/media/Profile Picture Julio Morales.a824b42ff96e9999b728.jpg",
+    "static/media/2021 Twitter logo - white.png": "/About_me/static/media/2021 Twitter logo - white.27cda7bdfce3369a30e8.png",
+    "static/media/glyph-logo_May2016.png": "/About_me/static/media/glyph-logo_May2016.5f73cf7a2d2426b8f168.png",
+    "index.html": "/About_me/index.html",
+    "main.91cf362d.css.map": "/About_me/static/css/main.91cf362d.css.map",
+    "main.8c91f877.js.map": "/About_me/static/js/main.8c91f877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91cf362d.css",
+    "static/js/main.8c91f877.js"
+  ]
+}
